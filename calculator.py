@@ -9,7 +9,8 @@ def main():
 
 
     while True:
-
+        a = int(input('계산할 두 번째 수를 입력하세요'))
+        b = int(input('계산할 첫 번째 수를 입력하세요'))
 
 
         if operation == '0':
