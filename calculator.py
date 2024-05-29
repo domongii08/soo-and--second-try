@@ -18,10 +18,15 @@ def main():
 
 
         if operation == '0':
+            print(a+b)
+            break
+
 
 
 
         elif operation == '1':
+            print(a-b)
+            break
 
 
 
