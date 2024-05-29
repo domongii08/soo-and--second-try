@@ -9,7 +9,12 @@ def main():
 
 
     while True:
+<<<<<<< HEAD
         operation = input("연산 방법을 선택하세요(0: 덧셈, 1: 뺄셈, 2: 나눗셈, 3: 곱셈): ") #참고로 3 아니어도 곱셈임
+=======
+        a = int(input('계산할 두 번째 수를 입력하세요'))
+        b = int(input('계산할 첫 번째 수를 입력하세요'))
+>>>>>>> 193292039d5c9c232c548fe84ac6226b6f68ad2f
 
 
         if operation == '0':
