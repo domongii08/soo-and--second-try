@@ -9,7 +9,7 @@ def main():
 
 
     while True:
-
+        operation = input("연산 방법을 선택하세요(0: 덧셈, 1: 뺄셈, 2: 나눗셈, 3: 곱셈): ") #참고로 3 아니어도 곱셈임
 
 
         if operation == '0':
