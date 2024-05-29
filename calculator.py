@@ -21,10 +21,14 @@ def main():
 
 
         elif operation == '2':
-
-
+            #나눗셈
+            print(a/b)
+            break
         
         else:
+            #곱셈
+            print(a*b)
+            break
     
 
 
